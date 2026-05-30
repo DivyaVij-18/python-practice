@@ -27,6 +27,3 @@ print(encrypted_text)
 text_to_decrypt='Pbhentr vf sbhaq va hayvxryl cynprf.'
 decrypted_text=decrypt(text_to_decrypt,13)
 print(decrypted_text)
-text_to_encrypt="i am divya vij"
-encrypted_text=encrypt(text_to_encrypt,1)
-print(encrypted_text)
